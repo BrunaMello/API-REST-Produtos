@@ -1,6 +1,6 @@
 ![GitHub Logo](api.png) 
 # API REST CRUD Products
-API REST for insert, update, delete and select products
+API REST for Insert, Update, Select and Delete products
 
 For this API was used the folllowing tecnologies:
 
